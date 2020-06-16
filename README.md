@@ -14,10 +14,10 @@ Please ensure you have them installed:
 
 ## Index
 
-1. [Setup](setup.md)
-2. [Subsets](subset.md)
+1. [Setup](01-setup.md)
+2. [Subsets](02-subset.md)
    Demonstrate the use of `subset` to route traffic to different versions
-3. [Timeouts](timeout.md)
+3. [Timeouts](03-timeout.md)
    Demonstrate the use of `Timeouts` and `Circuit-breakers`
-4. [External](external.md)
+4. [External](04-external.md)
    Demonstrate the use of `ServiceEntry` and `Retry policy`
